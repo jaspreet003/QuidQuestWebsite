@@ -1,7 +1,11 @@
 # QuidQuest - An Expense Tracker 
 
 ## Stack
+- JavaScript
 - React 
 - Node.js
-- TailwindCss
-- Mysql
+- Tailwind CSS
+- MySQL
+- Express
+- Sequelize
+- AWS S3
